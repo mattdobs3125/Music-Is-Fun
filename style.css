@@ -7,8 +7,12 @@
 }
 h3.price{
 text-align: right;
-color:#3c763d;
+color:#040e04;
 
+/* border:1px; 
+border-style:solid; 
+border-color:rgb(14, 102, 6); */
+/* padding: 1em; */
 }
 .panel-body{
 background-color: #dff0d8;
@@ -20,10 +24,6 @@ h4.well{
     height: 100px;
     
     /* margin: 15px; */
-    /* border:1px; 
-    border-style:solid; 
-    border-color:rgb(14, 102, 6); */
-    /* padding: 1em; */
     
 }
 .audio{
