@@ -21,7 +21,7 @@ background-color: #dff0d8;
 h4.well{
     color: #3c763d;
     width: 250px;
-    height: 100px;
+    height: 200px;
     
     /* margin: 15px; */
     
@@ -41,6 +41,7 @@ h4.well{
 }
 .form-group{
     padding-bottom: 3em;
+    padding-left:38%;
 
 }
     /*

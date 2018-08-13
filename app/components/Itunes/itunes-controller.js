@@ -22,18 +22,18 @@ function drawSongs(songs) {
     <audio controls class="audio">
     <source src="${song.preview}"/>
     </audio> 
-    <h4 class="well"> Title: ${song.title}</h4>
+    <h4 class="well"> Song Title: ${song.title}</h4>
     <h3 class="price">Album Price: ${song.price}</h3>
     <h4 class="well"> Artist: ${song.artist}</h4>
     </div>
     </div>
-    
-    
-    
-    
     `;
     document.getElementById("song-temp").innerHTML = template;
   }
+  
+    
+    
+    
 }
 
 //PUBLIC
